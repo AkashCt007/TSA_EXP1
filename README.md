@@ -1,3 +1,7 @@
+## Developed by: AKASH CT
+## Register no: 212224240007
+
+
 # Ex.No: 01A PLOT A TIME SERIES DATA
 ###  Date: 12/8/25
 
